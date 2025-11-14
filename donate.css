@@ -7,8 +7,7 @@
     background-color: #f7faff;
     margin: 0;
     padding: 0;
-    min-height: 100vh; /*   this is so that the background image will always cover the page
-                            however the page can get bigger, if needed by the margins of the inner content */
+    min-height: 100vh; /*   this is so that the background image will always cover the page                 however the page can get bigger, if needed by the margins of the inner content */
 }
 
 .donate h2 {
